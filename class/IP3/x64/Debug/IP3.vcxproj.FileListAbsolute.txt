@@ -1,0 +1,2 @@
+C:\cv\class\IP3\x64\Debug\IP3.exe
+C:\cv\class\IP3\x64\Debug\IP3.pdb

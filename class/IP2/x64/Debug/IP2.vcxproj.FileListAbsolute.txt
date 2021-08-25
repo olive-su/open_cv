@@ -1,0 +1,2 @@
+C:\cv\class\IP2\x64\Debug\IP2.exe
+C:\cv\class\IP2\x64\Debug\IP2.pdb
